@@ -1,0 +1,60 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn Django",
+      "status": false,
+      "assignee": "Venu"
+    },
+    {
+      "id": "2",
+      "title": "Learn Fetch",
+      "status": false,
+      "assignee": "Abdul"
+    },
+    {
+      "id": "3",
+      "title": "Complete All Assignments",
+      "status": false,
+      "assignee": "Mansi"
+    },
+    {
+      "id": "4",
+      "title": "Learn to fix app with url",
+      "status": false,
+      "assignee": "Gopal"
+    },
+    {
+      "id": "5",
+      "title": "Learn to fix app with url then create urls.py",
+      "status": false,
+      "assignee": "Gopal"
+    },
+    {
+      "id": "6",
+      "title": "First send message in HTTPResponse",
+      "status": false,
+      "assignee": "Gopal"
+    },
+    {
+      "id": "fef8"
+    },
+    {
+      "id": "fae9",
+      "title": "Learn Model ",
+      "assignee": "Pankaj"
+    },
+    {
+      "id": "1c5b",
+      "title": "Learn Model and connect with admin.py",
+      "status": false,
+      "assignee": "Pankaj"
+    },
+    {
+      "id": "fb16",
+      "title": "Serializers for overriding and Json",
+      "status": false,
+      "assignee": "Pankaj"
+    }
+  ]
+}
