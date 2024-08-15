@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <title>TODO Application</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -14,6 +17,15 @@
         <button id="addTask" >Add</button>
     </div>
     
+    <div id="editModel" class="modal">
+        <div class="modalContent">
+            <span class="close">&times;</span>
+            <h2>Update Todo</h2>
+            <input type="text" placeholder="Edit you Task" id="editTitle">
+            <input type="text" placeholder="Edit you Name" id="editAssignee">
+            <button id="saveChangeBtn">Save Changes</button>
+        </div>
+    </div>
     <div id="box"></div>
 </body>
 <script src="index.js"></script>

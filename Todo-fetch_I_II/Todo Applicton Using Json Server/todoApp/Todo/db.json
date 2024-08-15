@@ -2,15 +2,9 @@
   "todos": [
     {
       "id": "1",
-      "title": "Learn Django",
+      "title": "Learn Djangofg",
       "status": false,
-      "assignee": "Venu"
-    },
-    {
-      "id": "2",
-      "title": "Learn Fetch",
-      "status": false,
-      "assignee": "Abdul"
+      "assignee": "Venu-Varsha"
     },
     {
       "id": "3",
@@ -31,15 +25,6 @@
       "assignee": "Gopal"
     },
     {
-      "id": "6",
-      "title": "First send message in HTTPResponse",
-      "status": false,
-      "assignee": "Gopal"
-    },
-    {
-      "id": "fef8"
-    },
-    {
       "id": "fae9",
       "title": "Learn Model ",
       "assignee": "Pankaj"
@@ -51,10 +36,10 @@
       "assignee": "Pankaj"
     },
     {
-      "id": "fb16",
-      "title": "Serializers for overriding and Json",
+      "id": "dd5e",
+      "title": "learn-Django",
       "status": false,
-      "assignee": "Pankaj"
+      "assignee": "Abdul"
     }
   ]
 }
